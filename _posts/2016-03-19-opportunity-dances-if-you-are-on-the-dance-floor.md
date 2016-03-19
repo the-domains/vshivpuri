@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "\_opportunity dances with those already on the dance floor."
-datePublished: '2016-03-19T14:19:57.677Z'
-dateModified: '2016-03-19T14:19:24.753Z'
+datePublished: '2016-03-19T14:20:33.844Z'
+dateModified: '2016-03-19T14:20:05.013Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-19-opportunity-dances-if-you-are-on-the-dance-floor.md
