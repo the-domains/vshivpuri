@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[vshivpuri]]></title>
         <description><![CDATA[vshivpuri]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vshivpuri/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 14:15:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Mar 2016 14:20:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vshivpuri/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p> opportunity dances with those already on the dance floor.</p>]]></description>
-            <link>undefinedopportunity-dances-if-you-are-on-the-dance-floor/index.html</link>
+            <link>https://thegrid.ai/vshivpuri/opportunity-dances-if-you-are-on-the-dance-floor/index.html</link>
             <guid isPermaLink="false">cd661a59-0d23-45c5-9ffd-3b43815f737a</guid>
-            <pubDate>Sat, 19 Mar 2016 14:15:30 GMT</pubDate>
+            <pubDate>Sat, 19 Mar 2016 14:19:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
