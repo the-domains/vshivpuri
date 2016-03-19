@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[vshivpuri]]></title>
+        <description><![CDATA[vshivpuri]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 19 Mar 2016 14:15:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p> opportunity dances with those already on the dance floor.</p>]]></description>
+            <link>undefinedopportunity-dances-if-you-are-on-the-dance-floor/index.html</link>
+            <guid isPermaLink="false">cd661a59-0d23-45c5-9ffd-3b43815f737a</guid>
+            <pubDate>Sat, 19 Mar 2016 14:15:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
