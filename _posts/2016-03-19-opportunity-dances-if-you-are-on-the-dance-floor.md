@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
 keywords: []
-description: "\_opportunity dances with those already on the dance floor."
-datePublished: '2016-04-26T01:52:50.484Z'
-dateModified: '2016-03-19T14:26:40.014Z'
+description: create with us at houseofindus.com
+datePublished: '2016-04-26T01:54:11.650Z'
+dateModified: '2016-04-26T01:53:31.414Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-19-opportunity-dances-if-you-are-on-the-dance-floor.md
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: true
 url: opportunity-dances-if-you-are-on-the-dance-floor/index.html
 _type: Article
 
