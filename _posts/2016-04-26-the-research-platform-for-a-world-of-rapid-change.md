@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Welcome to PULSATE from Prelytics. A rapid-response hybrid research platform designed to give you real-time feedback without the expenses typically linked to high-quality research tools. Why hybrid? Because PULSATE combines quantitative sample sizes and rigor with the flexibility to do qualitative explorations. Use it for fast-iterative product innovation, communications testing, brand health measurement or any other project that needs robust, yet flexible research solutions.'
-datePublished: '2016-04-26T01:54:52.677Z'
-dateModified: '2016-04-26T01:48:36.541Z'
+datePublished: '2016-04-26T01:55:11.916Z'
+dateModified: '2016-04-26T01:54:56.753Z'
 title: 'THE RESEARCH PLATFORM FOR A WORLD OF RAPID CHANGE '
 author: []
 sourcePath: _posts/2016-04-26-the-research-platform-for-a-world-of-rapid-change.md
